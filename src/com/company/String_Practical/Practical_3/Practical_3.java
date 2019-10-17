@@ -1,6 +1,5 @@
 package com.company.String_Practical.Practical_3;
 
-import javax.security.sasl.SaslClient;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
